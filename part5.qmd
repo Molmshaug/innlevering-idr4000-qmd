@@ -1,3 +1,299 @@
 # Deloppgave 5: Analysere repeterte målinger
 
 <!-- Part 1: Analyzing repeated measures experiments -->
+
+## Introduksjon
+For en tid tilbake var kroppsbygging, styrketrening og hypertrofi et domene forbeholdt sterke menn, og kun menn. Først i OL i Sydney i 2000 fikk kvinner konkurrere på lik linje menn i olympisk vektløfting [@stone_weightlifting_2006]. Siden den tid har søkelyset på styrketrening økt og det har blitt en av de vanligste formene for trening i det norske samfunn ifølge Levekårundersøkelsen i 2019 [@statistisksentralbyra_2019]. Styrketrening har visst seg å ha en veldig positiv effekt på blant annet aldersbetinget muskeltap [@hurley_strength_2011] og generell dødelighet [@fitzgerald_muscular_2004]. For å finne ut mer om hvordan styrketrening påvirker kroppen og helse forskes det på faktorer som påvirker effekten av styrketrening. Dette kan være faktorer som treningsvolum, intensitet, hyppighet og øvelsesutvalg. Ved å endre disse variablene kan man endre det mekaniske og metabolske stresset på musklene og kroppen utsettes for [@toigo_new_2006; @ratamess_progression_2009].
+
+Mange i dagens samfunn lever i konstant tidsnød og dette kan hindre trening. Forskere ser derfor på hvor lav dose med trening er nødvendig for å oppnå ønsket respons [@choi_correlates_2017]. @schoenfeld_resistance_2019 så på forskjellen i muskelvekst ved å utføre studie der de sammenlignet 1 sett mot tre sett i et styrketreningsprogram. I denne studien fant de ingen signifikant forskjell mellom gruppene som gjennomførte ett sett og gruppen som gjennomførte tre sett. De fant også at mengden trening følger en dose-respons-kurve der et høyere treningsvolum fører til økt hypertrofi, men ikke nødvendigvis like god utvikling i styrke. Flere andre studier har også sett på effekten av å trene ett sett versus tre sett [@hass_single_2000; @radaelli_effects_2014; @krieger_2009; @galvao_resistance_2005], men resultatene fra disse studiene har vært sprikende. 
+
+I lys av sprikende resultater i forskning og et ønske om å videre belyse temaet om hvilken dose trening som må til for å oppnå en signifikant økning i styrke og hypertrofi så vil denne studien se på effekten av ett sett versus tre sett over en treningsperiode på 12 uker. Vi ligger opp til en hypotese om at gruppen som trener tre sett vil ha en bedre fremgang på styrke og hypertrofi etter 12 uker.  
+
+
+## Metode
+### Deltagere
+41 mannlige og kvinnelige deltagere ble rekruttert til studiet. Inklusjonskriteriene for å være med var at deltagerne måtte være mellom 18 og 40 år, ikke-røykende, ha en treningshistorie med minst en økt i uka med styrketrening det siste året og være fri for skader. Av de opprinnelige 41 deltagerne ble sju ekskludert på bakgrunn av at de ikke klarte å fullføre 85% av planlagte treningsøkter av ulike grunner: smerter i underekstremitet under trening (n = 5), skade som ikke var relatert til studiet (n = 1), klarte ikke å gjennomføre studieprotokoll (n= 1). 
+
+### Intervensjon
+Intervensjonen bestod av et 12-ukers styrketreningsprogram for hele kroppen, med trening 2 til tre ganger i uken. Øvelsene på bein ble gjennomført unilateralt for å kunne måle intern differensiering av ulike treningsvolum. Det ene benet trente ett sett, mens det andre benet trente tre sett. Hvilket ben som trente ett og tre sett ble randomisert. Før alle treningsøktene gjennomførte deltagerne en standardisert oppvarming med 5 minutter på ergometersykkel (12-14 på Borg-skala) og 10 repetisjoner av 4 øvelser med kroppsvekt: individuelt tilpassede armhevinger, situps, rygghev og knebøy. Oppvarmingen ble fullført med ett sett med 10 repetisjoner på 50% av 1RM i hver øvelse i programmet.
+
+Treningsprogrammet som alle deltagere gjennomførte var likt, eneste forskjell var antall sett som ble gjennomført på høyre eller venstre side. Øvelsene som ble gjennomført ble gjennomført i en standardisert rekkefølge: ettbeins beinpress, knefleksjon og kneekstensjon. Det benet som bare gjennomførte ett sett gjennomførte sitt sett mellom andre og tredje sett for motsatt ben. Etter beinøvelsene gjennomførte deltagerne øvelser på overkroppen i følgende rekkefølge: benkpress med manualer, nedtrekk og skulderpress eller sittende roing (annenhver økt). Treningsintensiteten var progressiv gjennom intervensjonsperioden, fra 10RM de første to ukene, til 8RM de neste tre ukene og 7RM de siste sju ukene. For å bidra til god restitusjon ble deltagerne gitt en standardisert drikk bestående av 0.15g/kg kroppsvekt med protein, 11.2g/kg kroppsvekt med karbohydrater og 0.5g/kg kroppsvekt med fett. 
+### Testing
+#### Styrketester
+Styrketester ble gjennomført ved pre og post. Isokinetiske og isometriske unilaterale øvelser på kneekstensjon ble gjort med dynamometer (Cybex 6000, Cybex International, Medway USA). Maksimalt isokinetisk (isok) dreiemoment ble målt på tre ulike vinkelhastigheter (60o, 120o og 240o s-1). Isometrisk (isom) styrke ble målt i 30o graders vinkel (full ekstensjon = 90o). Deltagerne fikk 2 forsøk på «isok60» og «isom60» og tre forsøk på «isok120» og «isok240», høyeste verdi ble registrert. 1RM ble målt i unilateral beinpress og kneekstensjon.
+
+Oppvarming var standardisert med 5 minutter på ergometersykkel, standardiserte oppvarmingsrepetisjoner i dynamometeret. I 1RM testen ble det gjennomført spesifikk oppvarming til hver øvelse med 10, 6 og 3 repetisjoner på 50, 75 og 85% av forventet 1RM. Deretter ble 1RM funnet ved at vekten økte gradvis helt til deltagerne ikke lenger klarte å fullføre en hel repetisjon. Den høyeste vekten deltagerne løftet i de ulike øvelsene ble registrert som 1RM. Deltagerne fikk 4-6 forsøk. Resultatene ble regnet om til en kombinert score som et gjennomsnitt av alle styrketestene. 
+
+#### Måling av kroppssammensetning
+Ved pre og post-test ble det målt kroppssammensetning med «dual-energy X-ray absorptiometry» (DXA) (Lunar Prodigy, GE Healthcare, Oslo, Norway), i henhold til standardisert protokoll. Deltagerne fikk instruksjon om å komme fastende (2 timer) og frastå fra tung fysisk aktivitet (48 timer) før måling. 
+
+#### Statistikk
+Statistisk analyse er gjennomført i RStudio (versjon 2022.07.2.576) for Windows. Deskriptiv statistikk er skrevet som gjennomsnitt og standardavvik (mean(SD)), oppgitt med og uten prosent. Statistiske modeller og tabeller er skrevet på engelsk for å unngå begrepsblandinger. For å tolke effekten av treningsvolum (ett eller tre sett) på muskelhypertrofi og muskelstyrke ble det brukt en paret t-test til å regne ut p-verdi på endringsscore fra pre- til post-test. Statistisk signifikans er satt ved P < 0.05.
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+
+library(tidyverse)
+library(exscidata)
+library(gt)
+library(lme4)
+
+data("dxadata")
+data("strengthvolume")
+
+# sort the interesting variables and add change scores
+
+data <- dxadata %>%
+  select(participant:include, lean.left_leg, lean.right_leg) %>%
+  pivot_longer(names_to = "leg", 
+               values_to = "lean.mass", 
+               cols = lean.left_leg:lean.right_leg) %>%
+  mutate(leg = if_else(leg == "lean.left_leg", "L", "R"), 
+         sets = if_else(multiple == leg, "multiple", "single")) %>%
+  select(participant, time, sex, include, sets, leg, lean.mass) %>%
+  pivot_wider(names_from = time, 
+              values_from = lean.mass) %>%
+  mutate(lbm_change = post - pre) %>%
+  mutate(lbm_perc = ((post - pre) / pre) * 100) %>%
+  filter(!is.na(lbm_change))
+
+```
+
+
+## Resultater
+### Kroppssammensetning
+Resultatene i studien viser begge gruppene at 12 uker med styrketrening førte til en signifikant endring i fettfri masse i bein som gjennomførte tre sett 3.32% (± 4.39%) sammenlignet med bein som gjennomførte ett sett 2.04% (± 3.71%). Statistisk signifikansverdi p < 0.05.
+
+
+```{R, echo=FALSE, warning=FALSE, message=FALSE}
+
+#Lean body mass measurements
+
+# Summarise change scores and add a gt table
+
+data %>% 
+  group_by(sets) %>% 
+  summarise(mean = mean(lbm_change),
+            sd = sd(lbm_change),
+            mean_perc = mean(lbm_perc),
+            sd_perc = sd(lbm_perc)) %>%
+  mutate(sets = factor(sets, levels = c("multiple", "single"),
+                       labels = c("3 sets", "1 sets"))) %>%
+  mutate(ms = paste0(signif(mean, 3), "(", signif(sd, 3), ")")) %>%
+  mutate(ms_perc = paste0(signif(mean_perc, 3), "(", signif(sd_perc, 3), ")")) %>%
+  gt() %>% 
+  tab_header(
+    title = "Table 1: Average change in lean body mass in legs",
+    subtitle = "Measured in grams and percentage") %>% 
+  fmt_number(columns = vars(mean, sd), decimals = 0) %>% 
+  fmt_percent(columns = vars(mean_perc, sd_perc), decimals = 2) %>% 
+  cols_label(mean_perc = "AVG %", sd_perc = "SD in %") %>% 
+  cols_label(sets = "Sets", mean = "Mean", sd = "SD") %>%
+  cols_label(ms = "Mean(SD) in grams", ms_perc = "Mean(SD) in %") %>% 
+  cols_hide(columns = c(mean, sd, mean_perc, sd_perc)) %>% 
+  tab_footnote("Mean (SD) increases in lean body mass for groups performing multiple sets and single sets.")
+
+```
+```{r, echo=FALSE, warning=FALSE, message=FALSE, include=FALSE}
+
+
+# Load data
+dat <- dxadata %>%
+  select(participant:include, lean.left_leg, lean.right_leg) %>%
+        
+        # Extract leg specific data
+  pivot_longer(names_to = "leg", 
+               values_to = "lean.mass", 
+               cols = lean.left_leg:lean.right_leg) %>%
+  mutate(leg = if_else(leg == "lean.left_leg", "L", "R"), 
+         sets = if_else(multiple == leg, "multiple", "single")) %>%
+  select(participant, time, sex, include, sets, leg, lean.mass) %>%
+        # Filter only included participants
+        filter(include == "incl") %>%
+        # Make data set wider by time 
+        
+        pivot_wider(names_from = "time", 
+                    values_from = "lean.mass") %>%
+        # Calculate change score
+        
+        mutate(change = post - pre) %>%
+        
+        # Keep change score and make it wider by sets
+        select(participant:sets, change) %>%
+        pivot_wider(names_from = sets, values_from = change)
+
+
+
+# T-test
+
+t.test(dat$multiple, dat$single, paired = TRUE)
+
+
+```
+
+
+
+```{R, echo=FALSE, warning=FALSE, message=FALSE}
+
+# Figure compare changes in lean body mass in each participant
+mod.dxa <- dxadata %>%
+  select(participant:include, lean.left_leg, lean.right_leg) %>%
+  pivot_longer(names_to = "leg", 
+               values_to = "lean.mass", 
+               cols = lean.left_leg:lean.right_leg) %>%
+   mutate(leg = if_else(leg == "lean.left_leg", "L", "R"), 
+         sets = if_else(multiple == leg, "Multiple", "Single")) %>%
+  select(participant, time, sets, sex, leg, lean.mass) %>%
+  group_by(participant) %>%
+  mutate(n = n(), group = factor(sets, levels = c("Multiple", "Single")), time = factor(time, levels = c("pre", "post")))
+
+mod.dxa %>%
+ ggplot(aes(time, lean.mass, group = paste(participant, group), color = group)) + geom_line() + theme_bw() +
+  labs(title = "Table 2: Change in lean body mass",
+       y = "Lean body mass in leg (grams)",
+       x = "Time",
+       colour = "Sets",
+       caption = "Shows the difference between multiple and single\n sets for each participant, sorted by colour.")
+
+dxadata %>%
+  select(participant:include, lean.left_leg, lean.right_leg) %>%
+  pivot_longer(names_to = "leg", 
+               values_to = "lean.mass", 
+               cols = lean.left_leg:lean.right_leg) %>%
+  mutate(leg = if_else(leg == "lean.left_leg", "L", "R"), 
+         sets = if_else(multiple == leg, "Multiple", "Single")) %>%
+  select(participant, time, sex, include, sets, leg, lean.mass) %>%
+  filter(time %in% c("pre", "post")) %>%
+  group_by(time, sets) %>%
+  summarise(m = mean(lean.mass)) %>%
+  mutate(time = factor(time, levels = c("pre", "post"))) %>%
+  ggplot(aes(time, m, color = sets,
+             group = sets)) + geom_line() + theme_bw() +
+  labs(title = "Table 3: Change in lean body mass",
+       x = "Time", y = "Lean body mass in leg (grams)", color = "Sets",
+       caption = "Show the difference betweeen multiple and \nsingle sets for each group, sorted by colour")
+```
+
+
+### Muskelstyrke
+Resultatene av testene gjennomført på muskelstyrke viser at begge gruppene økte i styrke fra pre til post. Resultatene viser at bein som gjennomførte ett sett hadde en prosentvis økning i styrke på 24.5% (± 12.9%), bein som gjennomførte tre sett hadde en prosentvis økning i styrke på 31% (± 14.2%). Styrketestene er regnet om til en kombinert score (combined load) som et gjennomsnitt av alle styrketestene. Kombinert score viser et skåringstall uten måleenhet. Resultatene viser en signifikant forskjell i endring i muskelstyrke mellom gruppene. Statistisk signifikansverdi p <0.05.
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+#Sort interesting variables and make a data set with strength change variable in %
+
+str.dat <- strengthvolume %>%
+  filter(!is.na(load)) %>%
+  group_by(exercise) %>%
+  mutate(scaled.load = load / max(load, na.rm = TRUE)) %>%
+  group_by(participant, time, sex, sets) %>%
+  summarise(combined.load = mean(scaled.load, na.rm = TRUE)) %>%
+  ungroup() %>%
+  pivot_wider(names_from = time,
+              values_from = combined.load) %>%
+  mutate(change_perc = ((post - pre) / pre) * 100) 
+
+
+str.dat %>%    
+  filter(!is.na(post)) %>%
+  group_by(sets) %>%
+  summarise(m = mean(change_perc),
+            sd = sd(change_perc)) %>%
+  mutate(sets = factor(sets, levels = c("multiple", "single"),
+                       labels = c("3 sets", "1 sets"))) %>%
+  mutate(ms = paste0(signif(m, 3), "(", signif(sd, 3), ")")) %>%
+  gt() %>% 
+  tab_header(
+    title = "Table 4: Average change in strength from 3 and 1 sets",
+    subtitle = "Measured in percentage(SD)") %>%  
+  fmt_number(columns = c(m, sd), decimals = 0) %>% 
+  fmt_percent(columns = c(m, sd), decimals = 2) %>% 
+  cols_label(sets = "Sets", ms = "% change(SD)") %>% 
+  cols_hide(columns = c(m, sd)) %>% 
+  tab_footnote("Average change strength in % (SD for 3 sets and 1 set).")
+  
+  
+
+
+
+```
+```{r, echo=FALSE, warning=FALSE, message=FALSE, include=FALSE}
+
+#Selecting relevant values to calculate a t-test
+
+str.dat3 <- strengthvolume %>%
+  filter(!is.na(load)) %>%
+  group_by(exercise) %>%
+  mutate(scaled.load = load / max(load, na.rm = TRUE)) %>%
+  group_by(participant, time, sex, sets) %>%
+  summarise(combined.load = mean(scaled.load, na.rm = TRUE)) %>%
+  ungroup() %>%
+  pivot_wider(names_from = time,
+              values_from = combined.load) %>%
+  mutate(change = post - pre) %>% 
+  select(participant, sets, change) %>% 
+  pivot_wider(names_from = sets,
+              values_from = change)
+
+  
+
+```
+
+
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE, include=FALSE}
+
+
+# t-test
+
+t.test(str.dat3$multiple, str.dat3$single, paired = TRUE)
+
+
+```
+
+
+
+```{R, echo=FALSE, warning=FALSE, message=FALSE}
+
+str.mod <- strengthvolume %>%
+  group_by(exercise) %>%
+  mutate(scaled.load = load / max(load, na.rm = TRUE)) %>%
+  group_by(participant, time, sex, sets) %>%
+  summarise(combined.load = mean(scaled.load, na.rm = TRUE)) %>%
+  ungroup()
+
+str.mod %>%
+  filter(!is.na(combined.load), time == factor(time, levels = c("pre", "post"))) %>%
+  mutate(time = factor(time, levels = c("pre", "post")),
+         group = factor(sets, levels = c("Single", "Multiple"))) %>%
+ ggplot(aes(time, combined.load, group = paste(participant, sets), color = sets)) + geom_line() + theme_bw() + labs(title = "Table 5: Change in strength",
+       y = "Change in strength (combined load)",
+       x = "Time",
+       caption = "Shows the difference between multiple and single\n sets on strength change, for each participant.")
+
+
+str.mod %>% 
+ filter(time %in% c("pre", "post")) %>% 
+  group_by(time, sets) %>% 
+  summarise(m = mean(combined.load, na.rm = TRUE)) %>% 
+  mutate(time = factor(time, levels = c("pre", "post"))) %>% 
+  ggplot(aes(time, m, color = sets,
+             group = sets)) + geom_line() + theme_bw() +
+  labs(title = "Table 6: Change in strength",
+       y = "Change in strength (combined load)",
+       x = "Time",
+       colour = "Sets",
+       caption = "Shows the mean difference between multiple \nand single sets on strength change, per group.")
+
+```
+
+
+
+
+## Diskusjon
+Hovedfunnene i den gjennomførte studien viser oss at to til tre økter med styrketrening i uka over en 12-ukers treningsperiode ga økt styrke og muskelhypertrofi i beina. Å trene tre sett gir bedre effekt i form av økt styrke og hypertrofi sammenlignet med å trene ett sett med styrketrening over en 12-ukers treningsperiode. Resultatene samsvarer med det store mengder litteratur viser, [@galvao_resistance_2005; @krieger_2009; @krieger_2010; @schoenfeld_2016] at tre sett har større effekt enn ett sett med styrketrening på muskelstyrke og muskelmasse.
+
+@brigatto_high_2022 fant også en sammenheng med at flere sett var gunstig for å oppnå større grad av muskelvekst og økt muskelstyrke. Forfatterne fra denne studien finner også en statistisk signifikant økning på høyt volum og økt styrke i bein, sammenlignet med lavere volum. Dette er også i tråd med @hass_single_2000 som finner signifikant økning med tre sett styrketrening sammenlignet med ett sett styrketrening på øvelser på underkroppen, men ikke på øvelser på overkroppen. Dette kan antyde at tre et høyere treningsvolum er å foretrekke for å øke styrke i underkroppen, men at kan være tilstrekkelig med ett sett på overkroppen. Dette stemmer også overens med konklusjon fra andre studier [@ronnestad_2007; @schoenfeld_effects_2015]. Det vil derfor være av interesse å reprodusere dette studiet, der man i tillegg til å trene forskjellig på høyre og venstre ben, også gjør det samme på høyre og venstre arm. Dette vil undersøke om man ser samme effekten som nevnte studier også med dette studiedesignet.
+
+Når vi ser på økningen i muskelmasse, var denne også signifikant med et høyere treningsvolum. Dette i tråd med funnene til @schoenfeld_resistance_2019, som konkluderte med at muskelhypertrofi følger et dose-respons-forhold, der et økt treningsvolum førte til mer muskelhypertrofi sammenlignet med et mindre volum. @galvao_resistance_2005 kunne ikke trekke samme konklusjon på deres studie der de sammenlignet ett sett og tre sett på eldre mennesker, der de konkluderte med at trening med ett sett per øvelse er tilstrekkelig for å bedre fysisk prestasjonsevne.  Studien vi har gjennomført skiller seg ut ved at hver enkelt deltager er sin egen kontroll ved at de trener høyre og venstre ben forskjellig.
+
+### Konklusjon
+Resultatene i studien stemmer med hypotesen om at 3 sett gir større effekt på styrke og muskelhypertrofi sammenlignet med ett sett styrketrening. 

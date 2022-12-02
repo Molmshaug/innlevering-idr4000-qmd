@@ -2,8 +2,8 @@ project:
   type: book
 
 book:
-  title: "Eksamen IDR4000"
-  author: "Kandidatnummer"
+  title: "Eksamen IDR4000 1 Kvantitativ metode og statistikk"
+  author: "Kandidatnummer 108"
   date: "2022-12-02"
   chapters:
     - index.qmd
@@ -15,6 +15,7 @@ book:
     - references.qmd
 
 bibliography: references.bib
+csl: apa.csl
 
 crossref: 
   fig-labels: arabic

@@ -1,13 +1,6 @@
-# Preface {.unnumbered}
+# Forord {.unnumbered}
 
-This is a Quarto book.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
 
-```{r}
-1 + 1
-```
 
-Forord:
-
-Dette er min innlevering til eksamen, data og kode finnes her....
+Dette er min innlevering til eksamen i IDR4000-1 22H Kvantitativ metode og statistikk. Data og reproduserbare filer for deloppgavene finnes i min GitHub: https://github.com/Molmshaug/innlevering-idr4000-qmd
